@@ -5,7 +5,7 @@
 
 **Bold Text**\
 *Italic Text*\
-~~Strike Through~~\
+~~Strike Through~~
 ~~~
 **Bold Text**\
 *Italic Text*\
