@@ -9,5 +9,5 @@
 ~~~
 **Bold Text**\
 *Italic Text*\
-~~Strike Through~~\
+~~Strike Through~~
 ~~~
